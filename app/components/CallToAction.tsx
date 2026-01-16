@@ -22,7 +22,7 @@ export default function CallToAction() {
       <button
         className="group relative flex items-center gap-3 rounded-2xl px-8 py-4 text-black font-bold text-lg transition-all duration-300 hover:scale-105 md:px-10 md:py-5"
         style={{
-          background: "linear-gradient(135deg,rgb(215, 230, 223) 0%, #00cc6a 100%)",
+          background: "linear-gradient(135deg,rgb(215, 230, 223) 0%, #31d8b4 100%)",
         }}
         onMouseEnter={(e) => {
           e.currentTarget.style.boxShadow = "0 6px 30px rgba(0, 255, 136, 0.6), 0 0 60px rgba(0, 255, 136, 0.3)";

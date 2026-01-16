@@ -4,7 +4,7 @@
   --background: #000000;
   --foreground: #ffffff;
   /* Couleurs vertes de la maquette */
-  --green-primary: #00ff88;
+  --green-primary: #31d8b4;
   --green-glow: rgba(0, 255, 136, 0.3);
 }
 
@@ -15,7 +15,7 @@
   --font-mono: var(--font-geist-mono);
   
   /* Couleurs personnalisées */
-  --color-green-primary: #00ff88;
+  --color-green-primary: #31d8b4;
   --color-green-glow: rgba(0, 255, 136, 0.3);
   --color-green-border: rgba(0, 255, 136, 0.5);
 }
