@@ -5,7 +5,7 @@ import { FaCalendar, FaArrowDown } from "react-icons/fa6";
 
 export default function CallToAction() {
   return (
-    <div className="relative flex flex-col items-center gap-6 px-4 pb-8 md:flex-row md:justify-center md:gap-4">
+    <div className="relative flex flex-col items-center gap-6 mb-28 px-4 pb-8 md:flex-row md:justify-center md:gap-4">
       {/* Annotation manuscrite "Un ptit click ?" */}
       <div className="absolute -left-6 top-16 hidden  md:block lg:-left-8">
         <Image
